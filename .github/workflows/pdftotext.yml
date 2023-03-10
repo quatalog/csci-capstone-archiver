@@ -16,4 +16,5 @@ jobs:
           cp $(which pdftotext) .
           git add pdftotext
           git config user.name "Quatalog Updater" && git config user.email "github_actions@quatalog.com"
-          git commit -m "PDF To Text"
+          git commit -m "PDF To Text : $(time -u)"
+          git push
