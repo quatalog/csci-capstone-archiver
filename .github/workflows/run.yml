@@ -1,0 +1,30 @@
+name: Archive CSCI capstone PDF
+
+on:
+  schedule:
+  - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  get-files:
+    name: Get PDF from Box
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Clone repo
+        uses: actions/checkout@v3
+
+      - name: Get data
+        run: |
+          URL="https://m.box.com/file/216659634290/download?shared_link=https%3A%2F%2Frpi.app.box.com%2Fv%2Fcsci-capstone"
+          curl -L -o csci-capstone.pdf "$URL"
+          pdftotext -layout csci-capstone.pdf
+            
+      - name: Commit data
+        run: |
+          git config user.name "Quatalog Updater" && git config user.email "github_actions@quatalog.com"
+          git add csci-capstone.pdf csci-capstone.txt
+          git commit -m "$(date -u)" || exit 0
+          git push
