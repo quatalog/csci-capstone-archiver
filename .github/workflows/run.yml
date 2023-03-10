@@ -15,16 +15,19 @@ jobs:
     steps:
       - name: Clone repo
         uses: actions/checkout@v3
+        
+      - name: Setup pdftotext
+        run: sudo apt-get install pdftotext
 
       - name: Get data
         run: |
           URL="https://m.box.com/file/216659634290/download?shared_link=https%3A%2F%2Frpi.app.box.com%2Fv%2Fcsci-capstone"
           curl -L -o csci-capstone.pdf "$URL"
-          ./pdftotext -layout csci-capstone.pdf
+          pdftotext -layout csci-capstone.pdf
             
       - name: Commit data
         run: |
           git config user.name "Quatalog Updater" && git config user.email "github_actions@quatalog.com"
-          git add csci-capstone.pdf csci-capstone.txt
+          git add csci-capstone.*
           git commit -m "$(date -u)" || exit 0
           git push
