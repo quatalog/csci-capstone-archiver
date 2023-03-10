@@ -15,4 +15,5 @@ jobs:
           sudo apt-get install poppler-utils
           cp $(which pdftotext) .
           git add pdftotext
+          git config user.name "Quatalog Updater" && git config user.email "github_actions@quatalog.com"
           git commit -m "PDF To Text"
