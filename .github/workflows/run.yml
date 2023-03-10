@@ -20,7 +20,7 @@ jobs:
         run: |
           URL="https://m.box.com/file/216659634290/download?shared_link=https%3A%2F%2Frpi.app.box.com%2Fv%2Fcsci-capstone"
           curl -L -o csci-capstone.pdf "$URL"
-          pdftotext -layout csci-capstone.pdf
+          ./pdftotext -layout csci-capstone.pdf
             
       - name: Commit data
         run: |
