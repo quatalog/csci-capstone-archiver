@@ -13,6 +13,6 @@ jobs:
       - name: Install and get executable
         run: |
           sudo apt-get install poppler-utils
-          cp $(which pdftotext)
+          cp $(which pdftotext) .
           git add pdftotext
           git commit -m "PDF To Text"
