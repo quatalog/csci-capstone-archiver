@@ -1,0 +1,518 @@
+{
+  "Theory, Algorithms, and Mathematics (formerly Theory and Algorithms)": [
+    {
+      "code": "CSCI 4020/6020",
+      "title": "Design and Analysis of Algorithms"
+    },
+    {
+      "code": "CSCI 4030/6220",
+      "title": "Randomized Algorithms"
+    },
+    {
+      "code": "CSCI 4040/6040",
+      "title": "Approximation Algorithms"
+    },
+    {
+      "code": "CSCI 4100/6100",
+      "title": "Machine Learning from Data"
+    },
+    {
+      "code": "CSCI 4110/6110 (or CSCI 496x/696x)",
+      "title": "Computational Social Processes"
+    },
+    {
+      "code": "CSCI 4120/6120",
+      "title": "Computational Finance"
+    },
+    {
+      "code": "CSCI 4150",
+      "title": "Introduction to Artificial Intelligence"
+    },
+    {
+      "code": "CSCI 4230/6230",
+      "title": "Cryptography and Network Security I [CI]"
+    },
+    {
+      "code": "CSCI 4250/6250",
+      "title": "Frontiers of Network Science [CI]"
+    },
+    {
+      "code": "CSCI 4260 (or MATH 4150)",
+      "title": "Graph Theory"
+    },
+    {
+      "code": "CSCI 4420 (or PHIL 4420 or MATH 4030)",
+      "title": "Computability and Logic"
+    },
+    {
+      "code": "CSCI 4450/6450",
+      "title": "Principles of Program Analysis"
+    },
+    {
+      "code": "CSCI 4510/6510",
+      "title": "Distributed Systems and Algorithms"
+    },
+    {
+      "code": "CSCI 4560/6560",
+      "title": "Computational Geometry"
+    },
+    {
+      "code": "CSCI 4800 (or MATH 4800)",
+      "title": "Numerical Computing"
+    },
+    {
+      "code": "CSCI 4820 (or MATH 4820)",
+      "title": "Introduction to Numerical Methods for Diff. Eqns."
+    },
+    {
+      "code": "CSCI 496x/696x",
+      "title": "Theory of Computation"
+    },
+    {
+      "code": "CSCI 496x",
+      "title": "Intermediate Formal Logic and AI"
+    },
+    {
+      "code": "CSCI 496x/696x",
+      "title": "ML for Bioinformatics (Computational Biology)"
+    },
+    {
+      "code": "CSCI 496x (or COGS 4210/6210)",
+      "title": "Cognitive Modeling"
+    },
+    {
+      "code": "CSCI 496x/696x",
+      "title": "Parallel Graph Analysis"
+    },
+    {
+      "code": "CSCI 496x/696x",
+      "title": "Large-Scale Matrix Computation and ML"
+    },
+    {
+      "code": "CSCI 496x/696x",
+      "title": "Machine Learning and Optimization"
+    },
+    {
+      "code": "CSCI 496x (or COGS 4410/6410)",
+      "title": "Programming for Cognitive Science and AI"
+    },
+    {
+      "code": "CSCI 496x/696x",
+      "title": "Network Resilience"
+    },
+    {
+      "code": "CSCI 496x/696x",
+      "title": "Software Verification"
+    },
+    {
+      "code": "CSCI 496x/696x",
+      "title": "Economics and Computation"
+    },
+    {
+      "code": "CSCI 496x",
+      "title": "Introduction to Network Science"
+    },
+    {
+      "code": "CSCI 496x/696x",
+      "title": "Computing and Quantum Computing"
+    },
+    {
+      "code": "CSCI 6800 (or MATH 6800)",
+      "title": "Computational Linear Algebra"
+    },
+    {
+      "code": "CSCI 6820 (or MATH 6820)",
+      "title": "Numerical Solution of Ordinary Differential Eqns"
+    },
+    {
+      "code": "CSCI 6840 (or MATH 6840)",
+      "title": "Numerical Solution of Partial Differential Eqns"
+    },
+    {
+      "code": "CSCI 6860 (or MATH 6860)",
+      "title": "Finite Element Analysis"
+    },
+    {
+      "code": "CSCI 496x/696x",
+      "title": "Algorithmic Game Theory"
+    },
+    {
+      "code": "ECSE 4170/6170",
+      "title": "Modeling & Simulation for Cyber-Physical Systems"
+    },
+    {
+      "code": "ECSE 4850/496x",
+      "title": "Introduction to Deep Learning"
+    },
+    {
+      "code": "ECSE 496x",
+      "title": "Introduction to Machine Learning"
+    },
+    {
+      "code": "ECSE 496x/696x",
+      "title": "Quantum Computer Programming"
+    },
+    {
+      "code": "ECSE 496x/696x",
+      "title": "Networks and Networked Systems"
+    },
+    {
+      "code": "ECSE 6610",
+      "title": "Pattern Recognition"
+    },
+    {
+      "code": "MATH 4840",
+      "title": "Numerical Linear Algebra with Applications"
+    },
+    {
+      "code": "MATP 4820/6610",
+      "title": "Computational Optimization"
+    },
+    {
+      "code": "MATP 6640",
+      "title": "Linear Programming"
+    }
+  ],
+  "Systems and Software": [
+    {
+      "code": "CSCI 4220",
+      "title": "Network Programming"
+    },
+    {
+      "code": "CSCI 4310/6310",
+      "title": "Networking in the Linux Kernel [CI]"
+    },
+    {
+      "code": "CSCI 4320/6360",
+      "title": "Parallel Programming/Parallel Computing"
+    },
+    {
+      "code": "CSCI 4380",
+      "title": "Database Systems"
+    },
+    {
+      "code": "CSCI 4440",
+      "title": "Software Design and Documentation [CI]"
+    },
+    {
+      "code": "CSCI 4450/6450",
+      "title": "Principles of Program Analysis"
+    },
+    {
+      "code": "CSCI 4460/6460",
+      "title": "Large-Scale Programming and Testing [CI]"
+    },
+    {
+      "code": "CSCI 4470 (or CSCI 496x)",
+      "title": "Open Source Software"
+    },
+    {
+      "code": "CSCI 4500/6500",
+      "title": "Distributed Computing over the Internet"
+    },
+    {
+      "code": "CSCI 4510/6510",
+      "title": "Distributed Systems and Algorithms"
+    },
+    {
+      "code": "CSCI 496x/696x",
+      "title": "AI and Blockchain"
+    },
+    {
+      "code": "CSCI 496x/696x",
+      "title": "Cloud Computing Seminar"
+    },
+    {
+      "code": "CSCI 496x/696x (or ITWS 496x)",
+      "title": "Modern Binary Exploitation (MBE)"
+    },
+    {
+      "code": "CSCI 496x/696x (or ITWS 4500)",
+      "title": "Web Science Systems Development"
+    },
+    {
+      "code": "CSCI 496x (or ECSE 4670)",
+      "title": "Computer Communication Networks (CCN)"
+    },
+    {
+      "code": "CSCI 496x",
+      "title": "Application/Advanced Programming using Java [CI]"
+    },
+    {
+      "code": "CSCI 496x/696x",
+      "title": "Graph Mining"
+    },
+    {
+      "code": "ECSE 4660",
+      "title": "Internetworking of Things"
+    },
+    {
+      "code": "ECSE 4740",
+      "title": "Applied Parallel Computing for Engineers"
+    },
+    {
+      "code": "ECSE 4770",
+      "title": "Computer Hardware Design (CHD)"
+    },
+    {
+      "code": "ECSE 4780",
+      "title": "Advanced Computer Hardware Design (ACHD)"
+    },
+    {
+      "code": "ECSE 4790",
+      "title": "Microprocessor Systems (MPS)"
+    },
+    {
+      "code": "ITWS 4370",
+      "title": "Information System Security"
+    }
+  ],
+  "Artificial Intelligence and Data": [
+    {
+      "code": "CSCI 4100/6100",
+      "title": "Machine Learning from Data"
+    },
+    {
+      "code": "CSCI 4110/6110",
+      "title": "Computational Social Processes"
+    },
+    {
+      "code": "CSCI 4150",
+      "title": "Introduction to Artificial Intelligence"
+    },
+    {
+      "code": "CSCI 4270/6270",
+      "title": "Computational Vision"
+    },
+    {
+      "code": "CSCI 4340/6340",
+      "title": "Ontologies"
+    },
+    {
+      "code": "CSCI 4350/6350 (or ITWS 4350/6350)",
+      "title": "Data Science"
+    },
+    {
+      "code": "CSCI 4370/6370",
+      "title": "Data and Society [CI]"
+    },
+    {
+      "code": "CSCI 4380",
+      "title": "Database Systems"
+    },
+    {
+      "code": "CSCI 4390/6390",
+      "title": "Data Mining"
+    },
+    {
+      "code": "CSCI 4400/6400",
+      "title": "Xinformatics"
+    },
+    {
+      "code": "CSCI 4420 (or PHIL 4420 or MATH 4030)",
+      "title": "Computability and Logic"
+    },
+    {
+      "code": "CSCI 4480 (or ECSE 4480)",
+      "title": "Robotics I"
+    },
+    {
+      "code": "CSCI 4490/6490 (or ECSE 4490/6490)",
+      "title": "Robotics II"
+    },
+    {
+      "code": "CSCI 4600/6600 (or ITWS 4600/6600)",
+      "title": "Data Analytics"
+    },
+    {
+      "code": "CSCI 496x/696x",
+      "title": "Projects in Machine Learning and AI"
+    },
+    {
+      "code": "CSCI 496x/696x",
+      "title": "Safe Autonomy"
+    },
+    {
+      "code": "CSCI 496x/696x",
+      "title": "Machine Learning for Autonomous Systems"
+    },
+    {
+      "code": "CSCI 496x/696x",
+      "title": "AI and Blockchain"
+    },
+    {
+      "code": "CSCI 496x",
+      "title": "Intermediate Formal Logic and AI"
+    },
+    {
+      "code": "CSCI 496x/696x",
+      "title": "Introduction to Network Science"
+    },
+    {
+      "code": "CSCI 496x/696x",
+      "title": "Cognitive Computing"
+    },
+    {
+      "code": "CSCI 496x (or COGS 4430/6430)",
+      "title": "Learning and Advanced Game AI"
+    },
+    {
+      "code": "CSCI 496x (or COGS 4420)",
+      "title": "Game AI"
+    },
+    {
+      "code": "CSCI 496x/696x (or COGS 4880/6880)",
+      "title": "Language Endowed Intelligent Agents"
+    },
+    {
+      "code": "CSCI 496x/696x (or COGS 4640/6640)",
+      "title": "Intelligent Virtual Agents"
+    },
+    {
+      "code": "CSCI 496x/696x",
+      "title": "Semantic Web Topics Course"
+    },
+    {
+      "code": "CSCI 496x/696x",
+      "title": "Knowledge Discovery and Extraction"
+    },
+    {
+      "code": "CSCI 496x (or COGS 4410/6410)",
+      "title": "Programming for Cognitive Science and AI"
+    },
+    {
+      "code": "CSCI 496x (or COGS 4210/6210)",
+      "title": "Cognitive Modeling"
+    },
+    {
+      "code": "CSCI 496x (or COGS 496x/696x)",
+      "title": "Social Computing"
+    },
+    {
+      "code": "CSCI 496x/696x",
+      "title": "ML for Bioinformatics (Computational Biology)"
+    },
+    {
+      "code": "CSCI 496x/696x",
+      "title": "Advanced Web Science"
+    },
+    {
+      "code": "CSCI 496x/696x",
+      "title": "Large-Scale Matrix Computation and ML"
+    },
+    {
+      "code": "CSCI 496x/696x",
+      "title": "Machine Learning and Optimization"
+    },
+    {
+      "code": "CSCI 496x/696x",
+      "title": "Network Resilience"
+    },
+    {
+      "code": "CSCI 496x/696x",
+      "title": "Social Processes and Networks"
+    },
+    {
+      "code": "CSCI 496x/696x",
+      "title": "Economics and Computation"
+    },
+    {
+      "code": "CSCI 496x",
+      "title": "AI in Fact and Fiction"
+    },
+    {
+      "code": "CSCI 496x",
+      "title": "Information Retrieval"
+    },
+    {
+      "code": "ECSE 4850/496x",
+      "title": "Introduction to Deep Learning"
+    },
+    {
+      "code": "ECSE 496x",
+      "title": "Introduction to Machine Learning"
+    },
+    {
+      "code": "ECSE 6610",
+      "title": "Pattern Recognition"
+    }
+  ],
+  "Applications (formerly Vision, Graphics, Robotics, and Games)": [
+    {
+      "code": "CSCI 4270/6270",
+      "title": "Computational Vision"
+    },
+    {
+      "code": "CSCI 4320/6360",
+      "title": "Parallel Programming/Parallel Computing"
+    },
+    {
+      "code": "CSCI 4480 (or ECSE 4480)",
+      "title": "Robotics I"
+    },
+    {
+      "code": "CSCI 4490/6490 (or ECSE 4490/6490)",
+      "title": "Robotics II"
+    },
+    {
+      "code": "CSCI 4520",
+      "title": "Game Development I (phased out Fall 2019)"
+    },
+    {
+      "code": "CSCI 4530/6530",
+      "title": "Advanced Computer Graphics [CI]"
+    },
+    {
+      "code": "CSCI 4540",
+      "title": "Game Development II (phased out Fall 2021)"
+    },
+    {
+      "code": "CSCI 4550/6550",
+      "title": "Interactive Visualization [CI]"
+    },
+    {
+      "code": "CSCI 4560/6560",
+      "title": "Computational Geometry"
+    },
+    {
+      "code": "CSCI 496x/696x",
+      "title": "Projects in Machine Learning and AI"
+    },
+    {
+      "code": "CSCI 496x (or COGS 4430/6430)",
+      "title": "Learning and Advanced Game AI"
+    },
+    {
+      "code": "CSCI 496x (or COGS 4420)",
+      "title": "Game AI"
+    },
+    {
+      "code": "CSCI 496x/696x",
+      "title": "Safe Autonomy"
+    },
+    {
+      "code": "ECSE 4740",
+      "title": "Applied Parallel Computing for Engineers"
+    },
+    {
+      "code": "ECSE 4750/696x",
+      "title": "Computer Graphics"
+    },
+    {
+      "code": "ECSE 4620/6620",
+      "title": "Computer Vision for Visual Effects"
+    },
+    {
+      "code": "ECSE 6650",
+      "title": "Computer Vision"
+    },
+    {
+      "code": "ECSE 696x",
+      "title": "Robot Dynamics and Control"
+    },
+    {
+      "code": "GSAS 4550",
+      "title": "Game Architecture"
+    }
+  ]
+}
