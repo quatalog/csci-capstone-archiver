@@ -18,12 +18,21 @@ jobs:
         
       - name: Setup pdftotext
         run: sudo apt-get install poppler-utils
+      
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.10'
 
       - name: Get data
         run: |
           URL="https://m.box.com/file/216659634290/download?shared_link=https%3A%2F%2Frpi.app.box.com%2Fv%2Fcsci-capstone"
           curl -L -o csci-capstone.pdf "$URL"
           pdftotext -layout csci-capstone.pdf
+      
+      - name: Run scraper
+        run: |
+          python scraper/main.py csci-capstone.txt > csci-capstone.json
             
       - name: Commit data
         run: |
